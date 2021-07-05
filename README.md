@@ -1,10 +1,20 @@
-### Hi there 👋
+### Taikamya's Github Page
+
+* Self-taught Programmer
+* Python main since 2013 / former C++ main from 2005 to 2009
+* Creator of the former SpeedCrypto app in 2014
+* Member of the Windows Insider Developer Program since 2005 (Contributed to the Windows "Longhorn" Vista) / **Currently NAM**
+
+- ⚡ Fun fact:
+* World of Warcraft original Beta-tester (2004)
+* Playstation "@Home" original Beta-tester (2006)
 
 <!--
 **Taikamya/taikamya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+- 👋 Say hi to... << Taikamya added this!
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
